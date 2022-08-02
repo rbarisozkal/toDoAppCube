@@ -1,0 +1,20 @@
+{
+  "widgetApi": [
+    {
+      "name": "todoBarisWidget"
+    }
+  ],
+  "widgetDescription": "",
+  "authorName": "",
+  "localFileBasePath": "",
+  "requires": [
+    {
+      "name": "global_Vue",
+      "version": "100.1"
+    },
+    {
+      "name": "t0000000000kbitiybnlm_Vant",
+      "version": "1.0.0"
+    }
+  ]
+}
